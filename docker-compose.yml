@@ -1,0 +1,8 @@
+version: '3'
+services:
+  face-recognition:
+    build: .
+    volumes:
+      - ./images:/app/images
+    ports:
+      - "8080:8080"

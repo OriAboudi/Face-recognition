@@ -1,0 +1,3 @@
+face_recognition
+pyttsx3
+opencv-python-headless
